@@ -43,7 +43,7 @@ Feature selection: Remove redundant/irrelevant features
 
 Choose algorithm type: Based on problem type
 
-## Classification: Logistic Regression, Random Forest, XGBoost, Neural Networks
+Classification: Logistic Regression, Random Forest, XGBoost, Neural Networks
 Regression: Linear Regression, Ridge, Lasso, SVR
 Clustering: K-Means, DBSCAN, Hierarchical
 
